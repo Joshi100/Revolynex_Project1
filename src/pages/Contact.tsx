@@ -189,8 +189,8 @@ const Contact = () => {
                   <MapPin className="h-6 w-6 text-emerald-600" />
                 </div>
                 <h3 className="font-semibold text-gray-900 mb-2">Visit Us</h3>
-                <p className="text-gray-700 mb-3">123 Himalayan Way</p>
-                <p className="text-gray-700">Dehradun, Uttarakhand</p>
+                <p className="text-gray-700 mb-3">Main Road</p>
+                <p className="text-gray-700">Dhangadhi, Sudurpaschim Nepal</p>
               </CardContent>
             </Card>
           </div>
