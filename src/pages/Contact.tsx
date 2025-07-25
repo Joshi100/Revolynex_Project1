@@ -149,7 +149,7 @@ const Contact = () => {
                     onClick={() => handleEmail('info@revolynx.com')}
                     className="hover:text-emerald-600 transition-colors"
                   >
-                    info@revolynx.com
+                    info@revolynex.com
                   </button>
                 </p>
                 <p className="text-gray-700">
@@ -157,7 +157,7 @@ const Contact = () => {
                     onClick={() => handleEmail('support@revolynx.com')}
                     className="hover:text-emerald-600 transition-colors"
                   >
-                    support@revolynx.com
+                    support@revolynex.com
                   </button>
                 </p>
               </CardContent>
